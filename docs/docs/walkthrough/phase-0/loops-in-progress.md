@@ -111,4 +111,4 @@ List of people who are working on closed loops:
 - Joe Greene (Jacksonville, NC)
 - Sebastien Lussier (Montreal, Canada)
 - Chris Harris (Sydney, Australia)
-- Greg & Marsha (London, Canada)
+- Greg D. for Marsha (Ilderton, Canada)
